@@ -1,0 +1,28 @@
+
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+header, .group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1{
+    color: #17a2b8;
+}
+
+input{
+    background-color: transparent !important;
+    
+}
+.form-control{
+    background-color: #24353f;
+}
+
+.form-control:focus,.navbar-toggler:focus{
+    box-shadow: unset;
+}
+
+a{
+    cursor: pointer;
+}
